@@ -1,3 +1,8 @@
+/*
+To make it easier to check the task, I posted the solution in jsfiddle.net
+https://jsfiddle.net/mactepdzen/c65ob1fy/2/
+ */
+
 // <--MENU-->
 Hamburger.SIZE_SMALL = {
     name: 'Small',
